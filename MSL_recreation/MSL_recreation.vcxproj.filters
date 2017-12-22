@@ -17,5 +17,9 @@
   <ItemGroup>
     <None Include="MSL_recreation.ino" />
   </ItemGroup>
- 
+  <ItemGroup>
+    <ClInclude Include="__vm\.MSL_recreation.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
